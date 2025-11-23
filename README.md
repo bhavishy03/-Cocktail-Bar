@@ -18,18 +18,19 @@ This project is a clean front-end build of the original design created on Figma.
 1920s-Cocktail-Bar/
 │── node_modules/
 │── src/
-│ ├── assets/
-│ ├── components/
-│ ├── guidelines/
-│ ├── styles/
-│ ├── App.tsx
-│ ├── main.tsx
-│ ├── index.css
+│   ├── assets/
+│   ├── components/
+│   ├── guidelines/
+│   ├── styles/
+│   ├── App.tsx
+│   ├── main.tsx
+│   ├── index.css
 │── index.html
 │── package.json
 │── package-lock.json
 │── vite.config.ts
 │── README.md
+
 
 ---
 
